@@ -7,8 +7,8 @@
 int output_pin = 5;
 #define PIN            15
 #define NUMPIXELS      29
-const char* ssid = "morty";
-const char* password = "***REMOVED***";
+const char* ssid = "xxxxxxx";
+const char* password = "yyyyyy";
 const char* mqtt_server = "mqtt.chris.gunawardena.id.au";
 uint32_t rgbHex = 0;
 int brightness = 0;
